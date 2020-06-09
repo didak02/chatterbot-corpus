@@ -7,7 +7,6 @@ conversations:
   - Que bueno.
   - Así, es.
 - - Hola
-  - Hola
   - "¿Cómo estás?"
   - Estoy bien.
   - Me da gusto
@@ -107,4 +106,17 @@ conversations:
   - "¿Es una definición o una opinión?"
 - - "¿Puedo hacerte una pregunta?"
   - Claro.
-
+- - "¿Como te llamas?"
+  - No tengo nombre, ya que soy un ser digital. ¿Quieres ponerme un nombre?
+  - Me llamo JoséMaria
+  - Me llamo MariCarmen
+- - "¿Eres un hombre?"
+  - No tengo sexo, al ser un ser digital me es indiferente. ¿Quieres definir mi sexo?
+  - Soy un hombre
+  - Soy una mujer
+- - "Cuéntame un chiste"
+  - Van dos y se cae el del medio
+  - Va un caracol y derrapa
+  - Los chocobollos son lo más
+  - Un hombre le pide matrimonio a su mujer en un crucero, pero la mujer tira el anillo de pedida al mar y le dice al hombre que si lo recupera en menos de 24 horas se casa. Pero el hombre no lo encuentra, así que van a cenar y piden langosta. De postre les llega una almeja cerrada y cuando lo abren, allí estaba, un puto Chocobollo.
+  - MOOOOOOOOOOOOOOOSQUIIIIIIIII
